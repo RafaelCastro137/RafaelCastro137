@@ -1,11 +1,10 @@
 ## Olá, me chamo Rafael Castro 👋
 
 - 🔭 Atualmente estou trabalhando em frontend e backend
-- 📫 Como me contactar: rafaelcastro137@gmail.com
+- 📫 Como me contatar: rafaelcastro137@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div>
-<a href="https://beacons.ai/RafaelCastro137">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCastro137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCastro137&layout=compact&langs_count=16&theme=dark"/>
 </a>
